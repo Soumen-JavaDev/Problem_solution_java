@@ -1,4 +1,4 @@
-package linkList;
+package LinkedList;
 
 
 import java.io.*;
